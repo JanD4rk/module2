@@ -1,0 +1,4 @@
+[submodule "module1"]
+	path = module1
+	url = https://github.com/JanD4rk/module1.git
+	branch = main
